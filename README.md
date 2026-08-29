@@ -1,4 +1,4 @@
-# FCSC 2025 Brontosaure
+# FCSC 2026 Brontosaure
 
 On vous demande d’écrire un keygen pour ce binaire et de le valider sur le service en ligne.
 ![presentation/assets/images/brontosaure.png](presentation/assets/images/brontosaure.png)
